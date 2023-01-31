@@ -5,7 +5,7 @@
 ## Что нужно сделать
 
 1. Создать репозиторий на [GitHub](https://github.com/artemevArt)
-2. Нарисовать блок-схему алгоритма
+2. Нарисовать [блок-схему](https://github.com/artemevArt/FinalWork/blob/master/diagram.png) алгоритма
 3. Оформить текстовое описание решения ([README.md](http://readme.md/))
 4. Написать программу
 5. Использовать контроль версий
